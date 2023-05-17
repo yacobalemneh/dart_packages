@@ -1,0 +1,2 @@
+
+enum OpenAiResponseType { normal, stream }

@@ -1,0 +1,17 @@
+name: openai_assist
+description: A dart package to interact with OpenAI's API
+version: 1.0.0
+# repository: https://github.com/my_org/my_repo
+
+environment:
+  sdk: '>=2.19.4 <3.0.0'
+
+dependencies:
+  http: ^0.13.5
+  mockito: ^5.4.0
+  http_parser: ^4.0.2
+  logging: ^1.1.1
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.21.0
